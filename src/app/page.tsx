@@ -328,8 +328,8 @@ export default function Home() {
             <a href="https://github.com/Prabathvsv/Sepolia-Wallet" target="_blank" rel="noopener noreferrer" className="group relative rounded-3xl overflow-hidden glass border border-white/5 bg-white/5 aspect-[4/3] flex flex-col justify-end p-8 transition-transform hover:-translate-y-2 duration-500">
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent z-10"></div>
               <img
-                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop"
-                alt="Project 1"
+                src="/ethereum-wallet-logo.jpg"
+                alt="Decentralized Ethereum Wallet"
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
               <div className="relative z-20 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
@@ -350,7 +350,7 @@ export default function Home() {
             <a href="https://guardian-x-delta.vercel.app" target="_blank" rel="noopener noreferrer" className="group relative rounded-3xl overflow-hidden glass border border-white/5 bg-white/5 aspect-[4/3] flex flex-col justify-end p-8 transition-transform hover:-translate-y-2 duration-500 md:translate-y-12">
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent z-10"></div>
               <img
-                src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2000&auto=format&fit=crop"
+                src="/guardianx-logo.jpg"
                 alt="Women's Safety PWA"
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -372,7 +372,7 @@ export default function Home() {
             <a href="https://github.com/Prabathvsv/fullstack-chat-app" target="_blank" rel="noopener noreferrer" className="group relative rounded-3xl overflow-hidden glass border border-white/5 bg-white/5 aspect-[4/3] flex flex-col justify-end p-8 transition-transform hover:-translate-y-2 duration-500 lg:translate-y-24">
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent z-10"></div>
               <img
-                src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=2000&auto=format&fit=crop"
+                src="/chat-app-logo.jpg"
                 alt="Full Stack Chat App"
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
