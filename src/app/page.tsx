@@ -53,7 +53,7 @@ export default function Home() {
               Available for new opportunities
             </motion.div>
 
-            <h1 className="text-6xl md:text-8xl lg:text-[100px] font-black tracking-tighter mb-4 leading-[0.9]">
+            <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-[100px] font-black tracking-tighter mb-4 leading-[0.9]">
               <span className="text-white">Prabath</span>
               <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FF3366] to-[#00F0FF]">
@@ -414,7 +414,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">© 2026 Prabath Vemulakonda. Crafted with precision.</p>
           <div className="flex items-center gap-6">
-            <a href="https://github.com/prabhathvsv" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors"><Github size={20} /></a>
+            <a href="https://github.com/Prabathvsv" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors"><Github size={20} /></a>
             <a href="https://leetcode.com/u/this_is_prabath/" target="_blank" rel="noreferrer" className="text-gray-400 hover:text-white transition-colors">
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
                 <path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114l5.313-5.694c.54-.58.54-1.502.003-2.042A1.375 1.375 0 0 0 13.483 0zm5.111 11.238L15.908 13.916c-.53.52-.53 1.36.002 1.871a1.282 1.282 0 0 0 1.84.004l2.686-2.678c.532-.52.532-1.362 0-1.882l-2.686-2.677a1.282 1.282 0 0 0-1.84.004c-.532.511-.532 1.352 0 1.872l2.684 2.678v.13z" />
